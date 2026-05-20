@@ -4,19 +4,6 @@
 
 [![F-Droid Version](https://img.shields.io/f-droid/v/org.maoist2009.tlsfragment)](https://f-droid.org/packages/org.maoist2009.tlsfragment/)
 
-## 交流群
-
-可用discussions
-
-[matrix反馈空间](https://matrix.to/#/#tlsp_public:matrix.org)
-也可直接加入公开群
-
-+ 配置优化（如可用ip查找，mode变更等）： <https://matrix.to/#/!WvZLqiyvvsVSCrsuWt:matrix.org?via=matrix.org>
-+ tlsp程序本身问题：<https://matrix.to/#/!GvJhmmjpGqeNCPyMyE:matrix.org?via=matrix.org>
-+ 关于代理配置问题： <https://matrix.to/#/!bRNRPJmWSBrWyuQbCd:matrix.org?via=matrix.org>
-
-有一个私密群，或许可以私信我尝试加入？
-
 ## 安装
 
 <!-- 暂不支持
